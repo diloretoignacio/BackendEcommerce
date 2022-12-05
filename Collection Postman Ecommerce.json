@@ -1,0 +1,251 @@
+{
+	"info": {
+		"_postman_id": "250065c8-0328-46b6-9b24-fd8f2a0029b5",
+		"name": "Ecommerce",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13703513"
+	},
+	"item": [
+		{
+			"name": "1- New Client",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"dni\": \"1234567892\",\r\n    \"name\": \"Señor\",\r\n    \"lastname\": \"X\",\r\n    \"address\": \"Calle falsa 123\",\r\n    \"phoneNumber\": \"123456789\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{urlHost}}/api/clientes",
+					"host": [
+						"{{urlHost}}"
+					],
+					"path": [
+						"api",
+						"clientes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2- Search Product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{urlHost}}/api/productos?name=Auriculares Gamer&sort=true",
+					"host": [
+						"{{urlHost}}"
+					],
+					"path": [
+						"api",
+						"productos"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Auriculares Gamer"
+						},
+						{
+							"key": "sort",
+							"value": "true",
+							"description": "ASC = true | DESC = false"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3- Search Product by Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{urlHost}}/api/productos/:id",
+					"host": [
+						"{{urlHost}}"
+					],
+					"path": [
+						"api",
+						"productos",
+						":id"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						}
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4- Add Product to shopping cart",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"clientId\": 3,\r\n    \"productId\": 2,\r\n    \"amount\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{urlHost}}/api/carrito",
+					"host": [
+						"{{urlHost}}"
+					],
+					"path": [
+						"api",
+						"carrito"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "5- Update Product in shopping cart",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"clientId\": 2,\r\n    \"productId\": 2,\r\n    \"amount\": 123\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{urlHost}}/api/carrito",
+					"host": [
+						"{{urlHost}}"
+					],
+					"path": [
+						"api",
+						"carrito"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "6- Delete Product in shopping cart",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{urlHost}}/api/carrito/:clientId/:productId",
+					"host": [
+						"{{urlHost}}"
+					],
+					"path": [
+						"api",
+						"carrito",
+						":clientId",
+						":productId"
+					],
+					"variable": [
+						{
+							"key": "clientId",
+							"value": "2",
+							"description": "Id del cliente"
+						},
+						{
+							"key": "productId",
+							"value": "2",
+							"description": "Id del producto"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "7- Generate Order",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{urlHost}}/api/orden/:clientId",
+					"host": [
+						"{{urlHost}}"
+					],
+					"path": [
+						"api",
+						"orden",
+						":clientId"
+					],
+					"variable": [
+						{
+							"key": "clientId",
+							"value": "3",
+							"description": "Id del cliente"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "8- Report orders",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{urlHost}}/api/orden?from=2022-09-19&to=2022-11-20",
+					"host": [
+						"{{urlHost}}"
+					],
+					"path": [
+						"api",
+						"orden"
+					],
+					"query": [
+						{
+							"key": "from",
+							"value": "2022-09-19",
+							"description": "Fecha desde"
+						},
+						{
+							"key": "to",
+							"value": "2022-11-20",
+							"description": "Fecha hasta"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "urlHost",
+			"value": "https://localhost:7233"
+		}
+	]
+}
