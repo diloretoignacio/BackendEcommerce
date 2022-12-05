@@ -1,0 +1,132 @@
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\ServiceTickets\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\canye\source\repos\ServiceTickets\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\canye\source\repos\ServiceTickets\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\canye\source\repos\ServiceTickets\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\canye\source\repos\ServiceTickets\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Usuario\Downloads\GITHUB\PsTpGrupalRamaB\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\canye\workspace\proyectos_con_mauro\ServiceTickets\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\gise2\Documents\Proyecto Software\Ticket - Grupal\Ticket\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\Nueva carpeta (4)\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\backups\Nueva carpeta (12)\tp3\TP2-REST-DiLoreto_Ignacio\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio\Backend\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\dilor\OneDrive\Escritorio\TP3-UI-DiLoreto_Ignacio new\Backend\Domain\obj\Debug\net6.0\ref\Domain.dll
