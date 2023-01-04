@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lt6V1kHWFOhig7+cdXGjYNKIveX6SX6eg7Ow4sFWHEk4wvMNTVXE90UZ3XH0z41kzEJ54pvrYc2nMAYWVwrrQw==",
+  "dgSpecHash": "SnWMJ0q1v8OJ7CU3EpOllTBxmwb9aCvV5TIze5hMu/yPRxYYpOqAc0TzfmojjyJ1pkSF+OD8yf7xPGf+bjqgUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dilor\\OneDrive\\Escritorio\\Backend\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\dilor\\OneDrive\\Documents\\GitHub\\BackendEcommerce\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dilor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dilor\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

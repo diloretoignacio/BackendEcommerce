@@ -3881,24 +3881,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dilor\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dilor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dilor\\OneDrive\\Escritorio\\Backend\\Aplication\\Aplication.csproj",
+      "projectUniqueName": "C:\\Users\\dilor\\OneDrive\\Documents\\GitHub\\BackendEcommerce\\Aplication\\Aplication.csproj",
       "projectName": "Aplication",
-      "projectPath": "C:\\Users\\dilor\\OneDrive\\Escritorio\\Backend\\Aplication\\Aplication.csproj",
+      "projectPath": "C:\\Users\\dilor\\OneDrive\\Documents\\GitHub\\BackendEcommerce\\Aplication\\Aplication.csproj",
       "packagesPath": "C:\\Users\\dilor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dilor\\OneDrive\\Escritorio\\Backend\\Aplication\\obj\\",
+      "outputPath": "C:\\Users\\dilor\\OneDrive\\Documents\\GitHub\\BackendEcommerce\\Aplication\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\dilor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3912,8 +3907,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\dilor\\OneDrive\\Escritorio\\Backend\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\dilor\\OneDrive\\Escritorio\\Backend\\Domain\\Domain.csproj"
+            "C:\\Users\\dilor\\OneDrive\\Documents\\GitHub\\BackendEcommerce\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\dilor\\OneDrive\\Documents\\GitHub\\BackendEcommerce\\Domain\\Domain.csproj"
             }
           }
         }
@@ -3959,7 +3954,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
